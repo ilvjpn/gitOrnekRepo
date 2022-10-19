@@ -7,12 +7,15 @@ public class gitClass {
         String name = "muhammed";
         String surname = "yilmaz";
         int doorNu= 14;
-
         String hesapBilgileri = "IBAN 6985333";
-
         String adress = "Mehemet akif ersoyi";
         String il = "Kayseri";
-        String ilce = "Melikgazi";
+        String ilce = "kocasinan";
+
+
+
+
+
 
     }
 }
