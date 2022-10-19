@@ -8,7 +8,7 @@ public class gitClass {
         String surname = "yilmaz";
         int doorNu= 14;
 
-        String adress = "Mehemet akif ersoy";
+        String adress = "Mehemet akif ersoyi";
         String il = "Kayseri";
         String ilce = "Kocasinan";
 
