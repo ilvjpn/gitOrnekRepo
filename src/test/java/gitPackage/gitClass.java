@@ -8,7 +8,10 @@ public class gitClass {
         String surname = "yilmaz";
         int doorNu= 14;
 
-        String hesapBilgileri = "IBAN 6985333"
+        String hesapBilgileri = "IBAN 6985333";
+        String esDurumu = "Dul";
+        boolean cocuk = true;
+        int cocukSayisi= 0;
 
         String adress = "Mehemet akif ersoyi";
         String il = "Kayseri";
