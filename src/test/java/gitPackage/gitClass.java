@@ -10,7 +10,7 @@ public class gitClass {
 
         String adress = "Mehemet akif ersoyi";
         String il = "Kayseri";
-        String ilce = "Melikgazi";
+        String ilce = "Kocasinan";
 
     }
 }
